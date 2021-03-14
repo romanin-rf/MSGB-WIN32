@@ -8,5 +8,9 @@
   + msgb.exe `-hn`
 3. Чтобы вызвать окно:
   + msgb.exe `-msg` **"Название окна"** **"Текст окна"** **16+0**
+## Скриншоты
+![1](https://romanin-rf.github.io/MSGB-WIN32/screenshots/1.png)
+![2](https://romanin-rf.github.io/MSGB-WIN32/screenshots/2.png)
+![3](https://romanin-rf.github.io/MSGB-WIN32/screenshots/3.png)
 ## Разработчик
 - Роман Слабицкий: [VK](https://vk.com/romanin2)
